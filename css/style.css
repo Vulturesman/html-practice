@@ -80,9 +80,46 @@ h2 {
 
 h3 {
     margin-bottom: 0.5rem;
-    margin-top: 0.5rem;
+    margin-top: 1rem;
+    text-align: center;
 }
 
 li {
     margin-left: 3rem;
+}
+
+footer {
+    background-color: #C0C2B8;
+    height: 2rem;
+    margin: 1rem;
+    padding: 1.5rem;
+}
+
+footer p {
+    color: #3F403D;
+    background-color: #7E8079;
+    border: 2px solid #3F403D;
+    border-radius: 25px;
+    width: 50rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer p a {
+    text-decoration: none;
+    background-color: #7E8079;
+    text-transform: uppercase;
+}
+
+footer p sup {
+    background-color: #7E8079;
+}
+
+.article p {
+    margin-top: 1rem
+}
+
+img {
+    max-width: 70rem;
 }
